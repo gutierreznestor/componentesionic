@@ -58,6 +58,5 @@ typings/
 .env
 
 /dist/
-/www/
 /public/
 /bin/
